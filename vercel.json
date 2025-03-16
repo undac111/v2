@@ -4,7 +4,6 @@
         {
 
             "src": "main.py",
-            "user": "@vercel/python",
             "config": {"maxLambdaSize": "15mb"}
         }
     ],
